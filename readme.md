@@ -22,6 +22,8 @@ Send us bug reports, feature enhancements or glyph requests, using the [Github I
 
 ## License
 
+<pre>
+
 Copyright (c) 2014, Tharique Azeez (http://niram.org|zeezat@gmail.com),
 with Reserved Font Name Neythal.
 
@@ -117,4 +119,4 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 Neythal is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-
+</pre>

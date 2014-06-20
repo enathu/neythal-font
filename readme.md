@@ -28,8 +28,7 @@ Neythal is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.or
 
 <pre>
 
-Copyright (c) 2014, Tharique Azeez (http://niram.org|zeezat@gmail.com),
-with Reserved Font Name Neythal.
+Copyright (c) 2014, Tharique Azeez (http://niram.org|zeezat@gmail.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

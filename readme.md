@@ -2,7 +2,7 @@
 
 Neythal is a handwriting font that adds the feeling of authentic handwriting to your texts. It can used to make classically modern designs and typographical stuff. It fits everywhere as it awesomely thin to adopt where it is placed. 
 
-Fun fact about the name of the font: Neythal is a Tamil word and it's the word for seashore and adjoining lands. I love places with lovely seashore very much.
+Fun fact about the name of the font: Neythal is a [Tamil](http://en.wikipedia.org/wiki/Tamil_language) word and it's the word for seashore and adjoining lands. I love places with lovely seashore very much.
 
 ## Installing 
 
@@ -21,6 +21,8 @@ Here is how **you** can help and contribute to the development of Neythal font.
 Send us bug reports, feature enhancements or glyph requests, using the [Github Issue Tracker](https://github.com/enathu/neythal-font/issues/). Here are a few tips:
 
 ## License
+
+Copyright (c) 2014, Tharique Azeez
 
 Neythal is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 

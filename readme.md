@@ -22,6 +22,8 @@ Send us bug reports, feature enhancements or glyph requests, using the [Github I
 
 ## License
 
+Neythal is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+
 <pre>
 
 Copyright (c) 2014, Tharique Azeez (http://niram.org|zeezat@gmail.com),

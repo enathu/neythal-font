@@ -18,7 +18,7 @@ Here is how **you** can help and contribute to the development of Neythal font.
 
 ### Bug Reports & Glyph requests
 
-Send us bug reports, feature enhancements or glyph requests, using the [Github Issue Tracker](https://github.com/enathu/neythal-font/issues/). Here are a few tips:
+Send us bug reports, feature enhancements or glyph requests, using the [Github Issue Tracker](https://github.com/enathu/neythal-font/issues/).
 
 ## License
 

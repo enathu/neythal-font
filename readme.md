@@ -8,6 +8,10 @@ Fun fact about the name of the font: Neythal is a [Tamil](http://en.wikipedia.or
 
 Albanian, Basque, Breton, Chamorro, Danish, Dutch, English, Faroese, Finnish, French, Frisian, Galician, German, Icelandic, Italian, Malagasy, Norwegian, Portuguese, Spanish, Swedish, Tamil
 
+## Specimen
+
+![Neythal Regular & Bold](samples/sample.jpg)
+
 ## Installing 
 
 You can grab the ttf files from the build folder in this repository and install it on your systems.

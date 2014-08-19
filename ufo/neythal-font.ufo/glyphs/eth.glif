@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eth" format="1">
-  <advance width="388"/>
-  <unicode hex="00F0"/>
-  <outline>
-    <component base="nine" yScale="-1.0" yOffset="805"/>
-  </outline>
-</glyph>

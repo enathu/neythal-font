@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="1">
+  <advance width="313"/>
+  <unicode hex="0161"/>
+  <outline>
+    <contour>
+      <point x="286" y="685" type="curve" smooth="yes"/>
+      <point x="298" y="695"/>
+      <point x="249" y="716"/>
+      <point x="236" y="708" type="curve"/>
+      <point x="218" y="692"/>
+      <point x="201" y="673"/>
+      <point x="187" y="657" type="curve" smooth="yes"/>
+      <point x="176" y="646"/>
+      <point x="167" y="634"/>
+      <point x="154" y="623" type="curve"/>
+      <point x="140" y="659"/>
+      <point x="110" y="706"/>
+      <point x="42" y="718" type="curve" smooth="yes"/>
+      <point x="23" y="721"/>
+      <point x="4" y="708"/>
+      <point x="14" y="695" type="curve" smooth="yes"/>
+      <point x="22" y="687"/>
+      <point x="34" y="679"/>
+      <point x="46" y="670" type="curve" smooth="yes"/>
+      <point x="59" y="661"/>
+      <point x="71" y="653"/>
+      <point x="77" y="642" type="curve" smooth="yes"/>
+      <point x="88" y="625"/>
+      <point x="95" y="607"/>
+      <point x="101" y="593" type="curve"/>
+      <point x="109" y="576" type="line"/>
+      <point x="115" y="564"/>
+      <point x="146" y="559"/>
+      <point x="163" y="569" type="curve" smooth="yes"/>
+      <point x="198" y="590"/>
+      <point x="218" y="615"/>
+      <point x="240" y="639" type="curve" smooth="yes"/>
+      <point x="255" y="654"/>
+      <point x="268" y="670"/>
+    </contour>
+    <component base="s" xOffset="3" yOffset="10"/>
+  </outline>
+</glyph>

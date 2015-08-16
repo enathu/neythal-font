@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="154"/>
+  <unicode hex="012B"/>
+  <outline>
+    <component base="uni02C9" xOffset="-45.0012" yOffset="-31.4231"/>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

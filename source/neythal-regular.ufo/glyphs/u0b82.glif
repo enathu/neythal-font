@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u0b82" format="1">
+<glyph name="tm_Anusvara" format="1">
   <advance width="0"/>
   <unicode hex="0B82"/>
   <outline>
     <contour>
-      <point x="-307" y="537" type="move" name="_mark0"/>
+      <point x="-300" y="524" type="move" name="_mark0"/>
     </contour>
     <contour>
-      <point x="-139" y="686" type="qcurve"/>
-      <point x="-139" y="707"/>
-      <point x="-111" y="736"/>
-      <point x="-91" y="736" type="qcurve"/>
-      <point x="-70" y="736"/>
-      <point x="-41" y="707"/>
-      <point x="-41" y="686" type="qcurve"/>
-      <point x="-41" y="666"/>
-      <point x="-70" y="638"/>
-      <point x="-91" y="638" type="qcurve"/>
-      <point x="-111" y="638"/>
-      <point x="-139" y="666"/>
+      <point x="-136" y="670" type="curve"/>
+      <point x="-136" y="684"/>
+      <point x="-131" y="696"/>
+      <point x="-122" y="705" type="curve" smooth="yes"/>
+      <point x="-113" y="714"/>
+      <point x="-102" y="719"/>
+      <point x="-89" y="719" type="curve"/>
+      <point x="-75" y="719"/>
+      <point x="-63" y="714"/>
+      <point x="-54" y="705" type="curve" smooth="yes"/>
+      <point x="-45" y="696"/>
+      <point x="-40" y="684"/>
+      <point x="-40" y="670" type="curve"/>
+      <point x="-40" y="657"/>
+      <point x="-45" y="646"/>
+      <point x="-54" y="637" type="curve" smooth="yes"/>
+      <point x="-63" y="628"/>
+      <point x="-75" y="623"/>
+      <point x="-89" y="623" type="curve"/>
+      <point x="-102" y="623"/>
+      <point x="-113" y="628"/>
+      <point x="-122" y="637" type="curve" smooth="yes"/>
+      <point x="-131" y="646"/>
+      <point x="-136" y="657"/>
     </contour>
   </outline>
 </glyph>

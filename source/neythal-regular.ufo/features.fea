@@ -1,195 +1,263 @@
-feature abvm { # Above-base Mark Positioning
- script taml; # Tamil
-#    mark u0b82 -123 537;
-#    pos u0B85 mark u0b82 575 516;
-#    pos u0B86 mark u0b82 640 537;
-#    pos u0B87 mark u0b82 510 820;
-#    pos u0B88 mark u0b82 396 506;
-#    pos u0B89 mark u0b82 473 522;
-#    pos u0B8A mark u0b82 637 515;
-#    pos u0B8E mark u0b82 435 506;
-#    pos u0B8F mark u0b82 440 506;
-#    pos u0B90 mark u0b82 423 504;
-#    pos u0B92 mark u0b82 428 519;
-#    pos u0B93 mark u0b82 418 529;
-#    pos u0B94 mark u0b82 879 514;
-#    pos u0B95 mark u0b82 329 494;
-#    pos u0B99 mark u0b82 449 492;
-#    pos u0B9A mark u0b82 300 495;
-#    pos u0B9C mark u0b82 433 502;
-#    pos u0B9E mark u0b82 572 505;
-#    pos u0B9F mark u0b82 423 502;
-#    pos u0BA3 mark u0b82 675 516;
-#    pos u0BA4 mark u0b82 322 492;
-#    pos u0BA8 mark u0b82 310 499;
-#    pos u0BA9 mark u0b82 519 506;
-#    pos u0BAA mark u0b82 374 494;
-#    pos u0BAE mark u0b82 435 511;
-#    pos u0BAF mark u0b82 424 488;
-#    pos u0BB0 mark u0b82 310 495;
-#    pos u0BB1 mark u0b82 337 509;
-#    pos u0BB2 mark u0b82 423 534;
-#    pos u0BB3 mark u0b82 482 510;
-#    pos u0BB4 mark u0b82 430 511;
-#    pos u0BB5 mark u0b82 482 513;
-#    pos u0BB6 mark u0b82 516 498;
-#    pos u0BB7 mark u0b82 616 502;
-#    pos u0BB8 mark u0b82 538 535;
-#    pos u0BB9 mark u0b82 608 509;
-#    pos u0B95_u0BCD_u0BB7.akhn mark u0b82 1335 -7;
-} abvm;
-feature abvs { # Above-base Substitutions
- script taml; # Tamil
-    sub u0B95 u0BC0 by u0B95_u0BC0.abvs;
-    sub u0B95 u0BBF by u0B95_u0BBF.abvs;
-    sub u0B99 u0BC0 by u0B99_u0BC0.abvs;
-    sub u0B99 u0BBF by u0B99_u0BBF.abvs;
-    sub u0B9A u0BC0 by u0B9A_u0BC0.abvs;
-    sub u0B9A u0BBF by u0B9A_u0BBF.abvs;
-    sub u0B9C u0BC0 by u0B9C_u0BC0.abvs;
-    sub u0B9C u0BBF by u0B9C_u0BBF.abvs;
-    sub u0B9E u0BC0 by u0B9E_u0BC0.abvs;
-    sub u0B9E u0BBF by u0B9E_u0BBF.abvs;
-    sub u0B9F u0BC0 by u0B9F_u0BC0.abvs;
-    sub u0B9F u0BBF by u0B9F_u0BBF.abvs;
-    sub u0BA3 u0BC0 by u0BA3_u0BC0.abvs;
-    sub u0BA3 u0BBF by u0BA3_u0BBF.abvs;
-    sub u0BA4 u0BC0 by u0BA4_u0BC0.abvs;
-    sub u0BA4 u0BBF by u0BA4_u0BBF.abvs;
-    sub u0BA8 u0BC0 by u0BA8_u0BC0.abvs;
-    sub u0BA8 u0BBF by u0BA8_u0BBF.abvs;
-    sub u0BA9 u0BC0 by u0BA9_u0BC0.abvs;
-    sub u0BA9 u0BBF by u0BA9_u0BBF.abvs;
-    sub u0BAA u0BC0 by u0BAA_u0BC0.abvs;
-    sub u0BAA u0BBF by u0BAA_u0BBF.abvs;
-    sub u0BAE u0BC0 by u0BAE_u0BC0.abvs;
-    sub u0BAE u0BBF by u0BAE_u0BBF.abvs;
-    sub u0BAF u0BC0 by u0BAF_u0BC0.abvs;
-    sub u0BAF u0BBF by u0BAF_u0BBF.abvs;
-    sub u0BB0 u0BC0 by u0BB0_u0BC0.abvs;
-    sub u0BB0 u0BBF by u0BB0_u0BBF.abvs;
-    sub u0BB1 u0BC0 by u0BB1_u0BC0.abvs;
-    sub u0BB1 u0BBF by u0BB1_u0BBF.abvs;
-    sub u0BB2 u0BC0 by u0BB2_u0BC0.abvs;
-    sub u0BB2 u0BBF by u0BB2_u0BBF.abvs;
-    sub u0BB3 u0BC0 by u0BB3_u0BC0.abvs;
-    sub u0BB3 u0BBF by u0BB3_u0BBF.abvs;
-    sub u0BB4 u0BC0 by u0BB4_u0BC0.abvs;
-    sub u0BB4 u0BBF by u0BB4_u0BBF.abvs;
-    sub u0BB5 u0BC0 by u0BB5_u0BC0.abvs;
-    sub u0BB5 u0BBF by u0BB5_u0BBF.abvs;
-    sub u0BB6 u0BBF by u0BB6_u0BBF.abvs;
-    sub u0BB7 u0BC0 by u0BB7_u0BC0.abvs;
-    sub u0BB7 u0BBF by u0BB7_u0BBF.abvs;
-    sub u0BB8 u0BC0 by u0BB8_u0BC0.abvs;
-    sub u0BB8 u0BBF by u0BB8_u0BBF.abvs;
-    sub u0BB9 u0BC0 by u0BB9_u0BC0.abvs;
-    sub u0BB9 u0BBF by u0BB9_u0BBF.abvs;
-} abvs;
-feature akhn { # Akhands
- script taml; # Tamil
-    sub u0B95 u0BCD u0BB7 by u0B95_u0BCD_u0BB7.akhn;
+languagesystem DFLT dflt;
+languagesystem taml dflt;
+languagesystem tml2 dflt;
+
+
+# GSUB 
+
+
+lookup CatamaranRegularakhnAkhandlooku {
+  lookupflag 0;
+    sub \tm_Ka \tm_Virama \tm_Ssa  by \tm_KSsa;
+    sub \tm_Sha \tm_Virama \tm_Ra \tm_VowelIi  by \tm_Shree;
+    sub \tm_Sa \tm_Virama \tm_Ra \tm_VowelIi  by \tm_Shree;
+} CatamaranRegularakhnAkhandlooku;
+
+lookup CatamaranRegularabvsAboveBaseSu {
+  lookupflag 0;
+    sub \tm_Tta \tm_VowelI  by \tm_TtI;
+    sub \tm_Tta \tm_VowelIi  by \tm_TtIi;
+} CatamaranRegularabvsAboveBaseSu;
+
+lookup CatamaranRegularpstsPostBaseSub {
+  lookupflag 0;
+    sub \tm_Ka \tm_VowelU  by \tm_KU;
+    sub \tm_Ca \tm_VowelU  by \tm_CU;
+    sub \tm_Nya \tm_VowelU  by \tm_NyU;
+    sub \tm_Tta \tm_VowelU  by \tm_TtU;
+    sub \tm_Nna \tm_VowelU  by \tm_NnU;
+    sub \tm_Ta \tm_VowelU  by \tm_TU;
+    sub \tm_Na \tm_VowelU  by \tm_NU;
+    sub \tm_Nnna \tm_VowelU  by \tm_NnnU;
+    sub \tm_Ma \tm_VowelU  by \tm_MU;
+    sub \tm_Ra \tm_VowelU  by \tm_RU;
+    sub \tm_Rra \tm_VowelU  by \tm_RrU;
+    sub \tm_La \tm_VowelU  by \tm_LU;
+    sub \tm_Lla \tm_VowelU  by \tm_LlU;
+    sub \tm_Llla \tm_VowelU  by \tm_LllU;
+} CatamaranRegularpstsPostBaseSub;
+
+lookup sub_ligature_pststaml_0 {
+  lookupflag 0;
+    sub \tm_Ka \tm_VowelUu  by \tm_KUu;
+    sub \tm_Nga \tm_VowelUu  by \tm_NgUu;
+    sub \tm_Ca \tm_VowelUu  by \tm_CUu;
+    sub \tm_Tta \tm_VowelUu  by \tm_TtUu;
+    sub \tm_Pa \tm_VowelUu  by \tm_PUu;
+    sub \tm_Ma \tm_VowelUu  by \tm_MUu;
+    sub \tm_Ya \tm_VowelUu  by \tm_YUu;
+    sub \tm_Ra \tm_VowelUu  by \tm_RUu;
+    sub \tm_Lla \tm_VowelUu  by \tm_LlUu;
+    sub \tm_Llla \tm_VowelUu  by \tm_LllUu;
+    sub \tm_Va \tm_VowelUu  by \tm_VUu;
+} sub_ligature_pststaml_0;
+
+lookup CatamaranRegularSingleSubstitut {
+  lookupflag 0;
+} CatamaranRegularSingleSubstitut;
+
+lookup sub_chain_pststaml_0 {
+  lookupflag 0;
+    sub [\tm_La \tm_Na \tm_Nna \tm_Nnna \tm_Nya \tm_Rra \tm_Ta ]'lookup CatamaranRegularSingleSubstitut  [\tm_VowelUu ] ;
+    sub [\tm_NyU \tm_NnU \tm_TU \tm_NU \tm_NnnU \tm_RrU \tm_LU ] [\tm_VowelUu ]'lookup CatamaranRegularSingleSubstitut  ;
+} sub_chain_pststaml_0;
+
+lookup sub_chain_pststaml_2 {
+  lookupflag 0;
+    sub [\tm_Ha \tm_Ja \tm_Llla \tm_Ma \tm_Rra \tm_Sha ] [\tm_VowelI ]'lookup CatamaranRegularSingleSubstitut  ;
+} sub_chain_pststaml_2;
+
+lookup sub_chain_pststaml_4 {
+  lookupflag 0;
+    sub [\tm_Ssa \tm_KSsa ] [\tm_VowelI ]'  by [NULL ];
+} sub_chain_pststaml_4;
+
+lookup sub_chain_pststaml_6 {
+  lookupflag 0;
+    sub [\tm_Ka \tm_Ta ] [\tm_VowelI ]'  by [NULL ];
+} sub_chain_pststaml_6;
+
+lookup sub_single__4 {
+  lookupflag 0;
+} sub_single__4;
+
+lookup sub_chain_pststaml_8 {
+  lookupflag 0;
+    sub [\tm_Na \tm_Nya ] [\tm_VowelI ]'lookup sub_single__4  ;
+} sub_chain_pststaml_8;
+
+lookup sub_chain_pststaml_10 {
+  lookupflag 0;
+    sub [\tm_Nga \tm_Pa \tm_Va \tm_Ya ] [\tm_VowelU ]'lookup sub_single__4  ;
+} sub_chain_pststaml_10;
+
+lookup CatamaranRegularss01StyleSet1lo {
+  lookupflag 0;
+    sub [\tm_Ra ]'lookup sub_single__4  [\tm_VowelI \tm_Anusvara \tm_Virama \tm_VowelIi ] ;
+} CatamaranRegularss01StyleSet1lo;
+
+lookup CatamaranRegularss02StyleSet2lo {
+  lookupflag 0;
+    sub [\tm_VowelAi ]'lookup sub_single__4  [\tm_La \tm_Lla \tm_Nna \tm_Nnna ] ;
+} CatamaranRegularss02StyleSet2lo;
+
+feature akhn {
+
+ script taml;
+     language dflt ;
+      lookup akhnAkhandinTamillookup1;
+      lookup CatamaranRegularakhnAkhandlooku;
+
+ script tml2;
+     language dflt ;
+      lookup CatamaranRegularakhnAkhandlooku;
 } akhn;
-feature blws { # Below-base Substitutions
- script taml; # Tamil
-    sub u0B95 u0BC2 by u0B95_u0BC2.blws;
-    sub u0B95 u0BC1 by u0B95_u0BC1.blws;
-    sub u0B99 u0BC2 by u0B99_u0BC2.blws;
-    sub u0B99 u0BC1 by u0B99_u0BC1.blws;
-    sub u0B9A u0BC2 by u0B9A_u0BC2.blws;
-    sub u0B9A u0BC1 by u0B9A_u0BC1.blws;
-    sub u0B9E u0BC2 by u0B9E_u0BC2.blws;
-    sub u0B9E u0BC1 by u0B9E_u0BC1.blws;
-    sub u0B9F u0BC2 by u0B9F_u0BC2.blws;
-    sub u0B9F u0BC1 by u0B9F_u0BC1.blws;
-    sub u0BA3 u0BC2 by u0BA3_u0BC2.blws;
-    sub u0BA3 u0BC1 by u0BA3_u0BC1.blws;
-    sub u0BA4 u0BC2 by u0BA4_u0BC2.blws;
-    sub u0BA4 u0BC1 by u0BA4_u0BC1.blws;
-    sub u0BA8 u0BC2 by u0BA8_u0BC2.blws;
-    sub u0BA8 u0BC1 by u0BA8_u0BC1.blws;
-    sub u0BA9 u0BC2 by u0BA9_u0BC2.blws;
-    sub u0BA9 u0BC1 by u0BA9_u0BC1.blws;
-    sub u0BAA u0BC2 by u0BAA_u0BC2.blws;
-    sub u0BAA u0BC1 by u0BAA_u0BC1.blws;
-    sub u0BAE u0BC2 by u0BAE_u0BC2.blws;
-    sub u0BAE u0BC1 by u0BAE_u0BC1.blws;
-    sub u0BAF u0BC2 by u0BAF_u0BC2.blws;
-    sub u0BAF u0BC1 by u0BAF_u0BC1.blws;
-    sub u0BB0 u0BC2 by u0BB0_u0BC2.blws;
-    sub u0BB0 u0BC1 by u0BB0_u0BC1.blws;
-    sub u0BB1 u0BC2 by u0BB1_u0BC2.blws;
-    sub u0BB1 u0BC1 by u0BB1_u0BC1.blws;
-    sub u0BB2 u0BC2 by u0BB2_u0BC2.blws;
-    sub u0BB2 u0BC1 by u0BB2_u0BC1.blws;
-    sub u0BB3 u0BC2 by u0BB3_u0BC2.blws;
-    sub u0BB3 u0BC1 by u0BB3_u0BC1.blws;
-    sub u0BB4 u0BC2 by u0BB4_u0BC2.blws;
-    sub u0BB4 u0BC1 by u0BB4_u0BC1.blws;
-    sub u0BB5 u0BC2 by u0BB5_u0BC2.blws;
-    sub u0BB5 u0BC1 by u0BB5_u0BC1.blws;
-} blws;
-feature half { # Half Forms
- script taml; # Tamil
-    sub u0B95 u0BCD by u0B95_u0BCD.half;
-    sub u0B99 u0BCD by u0B99_u0BCD.half;
-    sub u0B9A u0BCD by u0B9A_u0BCD.half;
-    sub u0B9C u0BCD by u0B9C_u0BCD.half;
-    sub u0B9E u0BCD by u0B9E_u0BCD.half;
-    sub u0B9F u0BCD by u0B9F_u0BCD.half;
-    sub u0BA3 u0BCD by u0BA3_u0BCD.half;
-    sub u0BA4 u0BCD by u0BA4_u0BCD.half;
-    sub u0BA8 u0BCD by u0BA8_u0BCD.half;
-    sub u0BA9 u0BCD by u0BA9_u0BCD.half;
-    sub u0BAA u0BCD by u0BAA_u0BCD.half;
-    sub u0BAE u0BCD by u0BAE_u0BCD.half;
-    sub u0BAF u0BCD by u0BAF_u0BCD.half;
-    sub u0BB0 u0BCD by u0BB0_u0BCD.half;
-    sub u0BB1 u0BCD by u0BB1_u0BCD.half;
-    sub u0BB2 u0BCD by u0BB2_u0BCD.half;
-    sub u0BB3 u0BCD by u0BB3_u0BCD.half;
-    sub u0BB4 u0BCD by u0BB4_u0BCD.half;
-    sub u0BB5 u0BCD by u0BB5_u0BCD.half;
-    sub u0BB6 u0BC0 by u0BB6_u0BC0.half;
-    sub u0BB6 u0BCD by u0BB6_u0BCD.half;
-    sub u0BB7 u0BCD by u0BB7_u0BCD.half;
-    sub u0BB8 u0BCD by u0BB8_u0BCD.half;
-    sub u0BB9 u0BCD by u0BB9_u0BCD.half;
-} half;
-feature haln { # Halant Forms
- script taml; # Tamil
-    sub u0B95 u0BCD by u0B95_u0BCD.half;
-    sub u0B99 u0BCD by u0B99_u0BCD.half;
-    sub u0B9A u0BCD by u0B9A_u0BCD.half;
-    sub u0B9C u0BCD by u0B9C_u0BCD.half;
-    sub u0B9E u0BCD by u0B9E_u0BCD.half;
-    sub u0B9F u0BCD by u0B9F_u0BCD.half;
-    sub u0BA3 u0BCD by u0BA3_u0BCD.half;
-    sub u0BA4 u0BCD by u0BA4_u0BCD.half;
-    sub u0BA8 u0BCD by u0BA8_u0BCD.half;
-    sub u0BA9 u0BCD by u0BA9_u0BCD.half;
-    sub u0BAA u0BCD by u0BAA_u0BCD.half;
-    sub u0BAE u0BCD by u0BAE_u0BCD.half;
-    sub u0BAF u0BCD by u0BAF_u0BCD.half;
-    sub u0BB0 u0BCD by u0BB0_u0BCD.half;
-    sub u0BB1 u0BCD by u0BB1_u0BCD.half;
-    sub u0BB2 u0BCD by u0BB2_u0BCD.half;
-    sub u0BB3 u0BCD by u0BB3_u0BCD.half;
-    sub u0BB4 u0BCD by u0BB4_u0BCD.half;
-    sub u0BB5 u0BCD by u0BB5_u0BCD.half;
-    sub u0BB6 u0BC0 by u0BB6_u0BC0.half;
-    sub u0BB6 u0BCD by u0BB6_u0BCD.half;
-    sub u0BB7 u0BCD by u0BB7_u0BCD.half;
-    sub u0BB8 u0BCD by u0BB8_u0BCD.half;
-    sub u0BB9 u0BCD by u0BB9_u0BCD.half;
-} haln;
+
+feature abvs {
+
+ script taml;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionsinTam;
+      lookup CatamaranRegularabvsAboveBaseSu;
+
+ script tml2;
+     language dflt ;
+      lookup CatamaranRegularabvsAboveBaseSu;
+} abvs;
+
+feature psts {
+
+ script taml;
+     language dflt ;
+      lookup CatamaranRegularpstsPostBaseSub;
+      lookup sub_ligature_pststaml_0;
+      lookup sub_chain_pststaml_0;
+      lookup sub_chain_pststaml_2;
+      lookup sub_chain_pststaml_4;
+      lookup sub_chain_pststaml_6;
+      lookup sub_chain_pststaml_8;
+      lookup sub_chain_pststaml_10;
+
+ script tml2;
+     language dflt ;
+      lookup CatamaranRegularpstsPostBaseSub;
+      lookup sub_ligature_pststaml_0;
+      lookup sub_chain_pststaml_0;
+      lookup sub_chain_pststaml_2;
+      lookup sub_chain_pststaml_4;
+      lookup sub_chain_pststaml_6;
+      lookup sub_chain_pststaml_8;
+      lookup sub_chain_pststaml_10;
+} psts;
+
+feature salt {
+
+ script taml;
+     language dflt ;
+      lookup CatamaranRegularss01StyleSet1lo;
+      lookup CatamaranRegularss02StyleSet2lo;
+
+ script tml2;
+     language dflt ;
+      lookup CatamaranRegularss01StyleSet1lo;
+      lookup CatamaranRegularss02StyleSet2lo;
+} salt;
+
+# GPOS 
 
 
+lookup CatamaranRegularkernHorizontalK {
+  lookupflag 0;
+    @kc20_first_0 = [\tm_Au \tm_E \tm_Ee \tm_Lla \tm_Nna \tm_Nnna \tm_Ra \tm_Hundred \tm_AuLengthMark 
+	\tm_VowelAa \tm_VowelUu.alt1 ];
+    @kc20_second_1 = [\tm_Ca \tm_E \tm_Ee \tm_Ha \tm_Ka \tm_La \tm_Lla \tm_Nna \tm_Nnna \tm_Nya \tm_Sa 
+	\tm_Ssa \tm_Ta \tm_Va \tm_Five \tm_Four \tm_Nine \tm_One \tm_Seven 
+	\tm_Six \tm_Thousand \tm_Merpadi \tm_Naal \tm_Varavu \tm_Varudam 
+	\tm_AuLengthMark \tm_VowelAi \tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU 
+	\tm_NnnU \tm_MU \tm_RU \tm_LU \tm_LlU \tm_CUu \tm_TtUu \tm_MUu \tm_RUu 
+	\tm_LlUu \tm_LllUu \tm_VUu \tm_Shree ];
+    @kc20_second_2 = [\tm_A \tm_Aa \tm_Eight ];
+    @kc20_second_3 = [\tm_I ];
+    pos @kc20_first_0 @kc20_second_1 -59;
+    pos @kc20_first_0 @kc20_second_2 -78;
+    pos @kc20_first_0 @kc20_second_3 -39;
+} CatamaranRegularkernHorizontalK;
 
+feature kern {
 
+ script DFLT;
+     language dflt ;
+      lookup CatamaranRegularkernHorizontalK;
 
+ script taml;
+     language dflt ;
+      lookup CatamaranRegularkernHorizontalK;
 
+ script tml2;
+     language dflt ;
+      lookup CatamaranRegularkernHorizontalK;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
+@GDEF_Simple = [\A \AE \Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde \B \C 
+	\uni000C \Ccedilla \D \E \Eacute \Ecircumflex \Edieresis \Egrave \Eogonek \Eth 
+	\Euro \F \G \H \I \Iacute \Icircumflex \Idieresis \Igrave \J \K \L \Lslash \M \N 
+	\uni0000 \Ntilde \O \OE \Oacute \Ocircumflex \Odieresis \Ograve \Oslash \Otilde \P 
+	\Q \R \S \Scaron \T \Thorn \U \Uacute \Ucircumflex \Udieresis \Ugrave \V \W \X \Y 
+	\Yacute \Ydieresis \Z \Zcaron \a \aacute \acircumflex \acute \adieresis \ae 
+	\uni200D \uni200C \agrave \ampersand \aring \asciicircum \asciitilde \asterisk 
+	\at \atilde \b \backslash \bar \braceleft \braceright \bracketleft \bracketright 
+	\breve \brokenbar \bullet \c \caron \ccedilla \cedilla \cent \circumflex \colon 
+	\comma \copyright \currency \d \dagger \daggerdbl \degree \dieresis \divide 
+	\divisionslash \dollar \dotaccent \dotlessi \e \eacute \ecircumflex \edieresis 
+	\egrave \eight \ellipsis \emdash \endash \equal \eth \exclam \uni203C \exclamdown 
+	\f \fi \five \fl \florin \four \uni2074 \fraction \g \germandbls \grave \greater 
+	\guillemotleft \guillemotright \guilsinglleft \guilsinglright \h 
+	\hungarumlaut \hyphen \i \iacute \icircumflex \idieresis \igrave \j \k \l \less 
+	\logicalnot \lslash \m \macron \minus \mu \multiply \n \nine \ntilde \numbersign \o 
+	\oacute \ocircumflex \odieresis \oe \ograve \one \onehalf \onequarter 
+	\onesuperior \ordfeminine \ordmasculine \oslash \otilde \p \paragraph 
+	\parenleft \parenright \percent \period \periodcentered \perthousand \plus 
+	\plusminus \q \question \questiondown \quotedbl \quotedblbase \quotedblleft 
+	\quotedblright \quoteleft \quoteright \quotesinglbase \quotesingle \r 
+	\registered \ring \s \scaron \section \semicolon \seven \six \slash \space 
+	\sterling \t \thorn \three \threequarters \threesuperior \tilde \trademark \two 
+	\twosuperior \u \tm_Visarga \tm_A \tm_Aa \tm_I \tm_Ii \tm_U \tm_Uu \tm_E \tm_Ee 
+	\tm_Ai \tm_O \tm_Oo \tm_Au \tm_Ka \tm_Nga \tm_Ca \tm_Ja \tm_Nya \tm_Tta \tm_Nna 
+	\tm_Ta \tm_Na \tm_Nnna \tm_Pa \tm_Ma \tm_Ya \tm_Ra \tm_Rra \tm_La \tm_Lla \tm_Llla 
+	\tm_Va \tm_Sha \tm_Ssa \tm_Sa \tm_Ha \tm_VowelAa \tm_VowelI \tm_VowelIi 
+	\tm_VowelU \tm_VowelUu \tm_VowelE \tm_VowelEe \tm_VowelAi \tm_VowelO 
+	\tm_VowelOo \tm_VowelAu \tm_Virama \tm_AuLengthMark \tm_Zero \tm_One \tm_Two 
+	\tm_Three \tm_Four \tm_Five \tm_Six \tm_Seven \tm_Eight \tm_Nine \tm_Ten 
+	\tm_Hundred \tm_Thousand \tm_Naal \tm_Maatham \tm_Varudam \tm_Patru \tm_Varavu 
+	\tm_Merpadi \tm_Rupee \tm_Enn \uacute \ucircumflex \udieresis \ugrave 
+	\underscore \uni00A0 \softhyphen \uni0964 \uni0965 \tm_Om \uni20B9 \uni25CC \v \w 
+	\x \y \yacute \ydieresis \yen \z \zcaron \zero \nonmarkingreturn \uni0000 \ogonek 
+	\commaaccent \grave.case \dieresis.case \macron.case \acute.case 
+	\circumflex.case \caron.case \breve.case \dotaccent.case \ring.case 
+	\tilde.case \hungarumlaut.case \Dcroat \dcroat \lacute \Abreve \Aogonek 
+	\Amacron \Cacute \Ccaron \Dcaron \Emacron \Edotaccent \Ecaron \Gbreve \Imacron 
+	\Iogonek \Idotaccent \Lacute \Lcaron \Nacute \Ncaron \Omacron \Ohungarumlaut 
+	\Racute \Rcaron \Sacute \Tcaron \Umacron \Uring \Uhungarumlaut \Uogonek \Zacute 
+	\Zdotaccent \Scedilla \Tcedilla \Scommaaccent \amacron \abreve \aogonek \cacute 
+	\ccaron \dcaron \emacron \edotaccent \eogonek \ecaron \gbreve \imacron \iogonek 
+	\lcaron \nacute \ncaron \omacron \ohungarumlaut \racute \rcaron \sacute \tcaron 
+	\umacron \uring \uhungarumlaut \uogonek \zacute \zdotaccent \scedilla \tcedilla 
+	\scommaaccent \uni02C9 \litre \Ohm \Delta \bulletmath \Turkishlira \Ruble \pi 
+	\estimated \partialdiff \product \summation \radical \infinity \integral 
+	\approxequal \notequal \lessequal \greaterequal \lozenge \Gcommaaccent 
+	\Kcommaaccent \Lcommaaccent \Ncommaaccent \Rcommaaccent \Tcommaaccent 
+	\gcommaaccent \kcommaaccent \lcommaaccent \ncommaaccent \rcommaaccent 
+	\tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
+	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_KSsa ];
+@GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NnnU 
+	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
+	\tm_PUu \tm_MUu \tm_YUu \tm_RUu \tm_LlUu \tm_LllUu \tm_VUu \tm_TtI \tm_TtIi 
+	\tm_Shree ];
+@GDEF_Mark = [\tm_Anusvara ];
 
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
 
+} GDEF;
 

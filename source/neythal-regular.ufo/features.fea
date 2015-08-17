@@ -235,20 +235,17 @@ feature kern {
 	\x \y \yacute \ydieresis \yen \z \zcaron \zero \nonmarkingreturn \uni0000 \ogonek 
 	\commaaccent \grave.case \dieresis.case \macron.case \acute.case 
 	\circumflex.case \caron.case \breve.case \dotaccent.case \ring.case 
-	\tilde.case \hungarumlaut.case \Dcroat \dcroat \lacute \Abreve \Aogonek 
-	\Amacron \Cacute \Ccaron \Dcaron \Emacron \Edotaccent \Ecaron \Gbreve \Imacron 
-	\Iogonek \Idotaccent \Lacute \Lcaron \Nacute \Ncaron \Omacron \Ohungarumlaut 
-	\Racute \Rcaron \Sacute \Tcaron \Umacron \Uring \Uhungarumlaut \Uogonek \Zacute 
+	\tilde.case \hungarumlaut.case \lacute \Abreve \Aogonek \Amacron \Cacute 
+	\Ccaron \Dcaron \Emacron \Edotaccent \Ecaron \Gbreve \Imacron \Iogonek 
+	\Idotaccent \Lacute \Lcaron \Nacute \Ncaron \Omacron \Ohungarumlaut \Racute 
+	\Rcaron \Sacute \Tcaron \Umacron \Uring \Uhungarumlaut \Uogonek \Zacute 
 	\Zdotaccent \Scedilla \Tcedilla \Scommaaccent \amacron \abreve \aogonek \cacute 
 	\ccaron \dcaron \emacron \edotaccent \eogonek \ecaron \gbreve \imacron \iogonek 
 	\lcaron \nacute \ncaron \omacron \ohungarumlaut \racute \rcaron \sacute \tcaron 
 	\umacron \uring \uhungarumlaut \uogonek \zacute \zdotaccent \scedilla \tcedilla 
-	\scommaaccent \uni02C9 \litre \Ohm \Delta \bulletmath \Turkishlira \Ruble \pi 
-	\estimated \partialdiff \product \summation \radical \infinity \integral 
-	\approxequal \notequal \lessequal \greaterequal \lozenge \Gcommaaccent 
-	\Kcommaaccent \Lcommaaccent \Ncommaaccent \Rcommaaccent \Tcommaaccent 
-	\gcommaaccent \kcommaaccent \lcommaaccent \ncommaaccent \rcommaaccent 
-	\tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
+	\scommaaccent \uni02C9 \Gcommaaccent \Kcommaaccent \Lcommaaccent 
+	\Ncommaaccent \Rcommaaccent \Tcommaaccent \kcommaaccent \lcommaaccent 
+	\ncommaaccent \rcommaaccent \tcommaaccent \tm_VowelI.alt1 \tm_VowelU.alt1 
 	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_KSsa ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NnnU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 

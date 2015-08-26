@@ -29,7 +29,6 @@ lookup post_base_sub_1 {
     sub tm_La tm_VowelU by tm_LU;
     sub tm_Lla tm_VowelU by tm_LlU;
     sub tm_Llla tm_VowelU by tm_LllU; 
-    sub tm_Ya tm_VowelU by tm_YU;
     
 } post_base_sub_1; 
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_KU" format="1">
-  <advance width="539"/>
+  <advance width="555"/>
   <outline>
     <contour>
       <point x="519" y="90" type="curve" smooth="yes"/>

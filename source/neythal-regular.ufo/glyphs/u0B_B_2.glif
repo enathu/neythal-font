@@ -7,7 +7,7 @@
       <point x="725" y="6" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
     </contour>
     <contour>
-      <point x="451" y="-7" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
+      <point x="299" y="2" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
     </contour>
     <contour>
       <point x="224" y="476" type="curve"/>

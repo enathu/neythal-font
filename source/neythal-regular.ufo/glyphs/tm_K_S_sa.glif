@@ -3,7 +3,7 @@
   <advance width="921"/>
   <outline>
     <contour>
-      <point x="1304" y="6" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+      <point x="721" y="2" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
     </contour>
     <contour>
       <point x="545" y="4" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>

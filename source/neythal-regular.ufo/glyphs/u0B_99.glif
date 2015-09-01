@@ -4,7 +4,7 @@
   <unicode hex="0B99"/>
   <outline>
     <contour>
-      <point x="354" y="0" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+      <point x="367" y="1" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
     </contour>
     <contour>
       <point x="186" y="-3" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>

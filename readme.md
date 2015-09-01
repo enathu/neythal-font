@@ -14,7 +14,7 @@ Albanian, Basque, Breton, Chamorro, Danish, Dutch, English, Faroese, Finnish, Fr
 
 ## Specimen
 
-![Neythal Regular & Bold](samples/sample.jpg)
+![Neythal Regular & Bold](samples/test-page-screenshot.png)
 
 ## Installing 
 

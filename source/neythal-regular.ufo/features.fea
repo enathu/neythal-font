@@ -166,7 +166,7 @@ lookup abvm_1 {
   pos base [\tm_Va ] <anchor 356 1> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Sha ] <anchor 313 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ssa ] <anchor 361 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-  pos base [\tm_Sa ] <anchor 334 3> mark @MARKS_CLASS_0_LUT0_SUB0;
+  pos base [\tm_Sa ] <anchor 362 3> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ha ] <anchor 584 -2> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_VowelAa ] <anchor 138 -3> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_AuLengthMark ] <anchor 333 3> mark @MARKS_CLASS_0_LUT0_SUB0;
@@ -190,13 +190,13 @@ lookup abvm_2 {
   pos base [\tm_Ma ] <anchor 346 -2> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ya ] <anchor 456 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Rra ] <anchor 315 1> mark @MARKS_CLASS_0_LUT1_SUB0;
-  pos base [\tm_La ] <anchor 447 -4> mark @MARKS_CLASS_0_LUT1_SUB0;
+  pos base [\tm_La ] <anchor 447 -8> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Lla ] <anchor 494 -4> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Llla ] <anchor 374 -3> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Va ] <anchor 477 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Sha ] <anchor 469 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ssa ] <anchor 499 -1> mark @MARKS_CLASS_0_LUT1_SUB0;
-  pos base [\tm_Sa ] <anchor 585 1> mark @MARKS_CLASS_0_LUT1_SUB0;
+  pos base [\tm_Sa ] <anchor 613 1> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ha ] <anchor 679 -1> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_AuLengthMark ] <anchor 468 -1> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_KSsa ] <anchor 721 2> mark @MARKS_CLASS_0_LUT1_SUB0;
@@ -299,7 +299,12 @@ feature kern {
 	\zdotaccent \scedilla \uni0163 \uni0219 \uni02C9 \uni0122 \uni0136 \uni013B 
 	\uni0145 \uni0156 \uni021A \uni0137 \uni013C \uni0146 \uni0157 \uni021B 
 	\tm_VowelI.alt1 \tm_VowelU.alt1 \tm_VowelUu.alt1 \tm_VowelI.alt2 
-	\tm_VowelI.alt3 \tm_VowelI.alt4 \tm_KSsa ];
+	\tm_VowelI.alt3 \tm_VowelI.alt4 \tm_KSsa \Dcroat \dcroat \uni2113 \uni2126 
+	\uni2206 \uni2219 \uni20BA \uni20BD \uni03C0 \uni212E \uni2202 \uni220F \uni2211 
+	\uni221A \uni221E \uni222B \uni2248 \uni2260 \uni2264 \uni2265 \uni25CA \uni0123 
+	\uni0124 \Cdotaccent \Ccircumflex \Gdotaccent \Gcircumflex \Ubreve 
+	\Scircumflex \cdotaccent \ccircumflex \gdotaccent \gcircumflex \ubreve 
+	\scircumflex \jcircumflex \hcircumflex ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NnnU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_YUu \tm_RUu \tm_LlUu \tm_LllUu \tm_VUu \tm_TtI \tm_TtIi ];

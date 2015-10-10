@@ -1,12 +1,8 @@
-## Work in Progress
-
-Currently refactoring Neythal to add FDK compliant features and add some more refinements.
-
 # Neythal Font
 
-Neythal is a handwriting font that adds the feeling of authentic handwriting to your texts and it comes in two gorgeous styles. It can used to make classically modern designs and typographical stuff. It fits everywhere as it awesomely thin to adopt where it is placed. 
+Neythal is a handwriting font that adds the feeling of authentic handwriting to your texts. It can used to make classically modern designs and typographical stuff. It fits everywhere as it graciously thin to adopt where it is placed. 
 
-Fun fact about the name of the font: Neythal is a [Tamil](http://en.wikipedia.org/wiki/Tamil_language) word and it's the word for seashore and adjoining lands. I love places with lovely seashore very much.
+Fun fact about the name of the font: Neythal is a [Tamil](http://en.wikipedia.org/wiki/Tamil_language) word and it's the word for seashore and adjoining lands. I love places with lovely seashore, very much.
 
 ## Language Support
 

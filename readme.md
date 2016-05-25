@@ -1,6 +1,7 @@
 # Neythal Font
 
-Neythal is a handwriting font that adds the feeling of authentic handwriting to your texts. It can used to make classically modern designs and typographical stuff. It fits everywhere as it graciously thin to adopt where it is placed. 
+
+Neythal is a handwriting font that adds the feeling of authentic handwriting to your texts. It combines a mischievous spirit and cheerful style. Its playful letterforms can be use to make classically modern designs and typographical stuff. Neythal typeface exudes delight and happiness. It fits everywhere, graciously. It is perfect for a variety of designs.
 
 Fun fact about the name of the font: Neythal is a [Tamil](http://en.wikipedia.org/wiki/Tamil_language) word and it's the word for seashore and adjoining lands. I love places with lovely seashore, very much.
 

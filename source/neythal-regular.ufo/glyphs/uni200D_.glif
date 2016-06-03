@@ -36,7 +36,6 @@
       <point x="15" y="674" type="line"/>
       <point x="15" y="663" type="line" smooth="yes"/>
       <point x="15" y="650"/>
-      <point x="12" y="624" type="qcurve" smooth="yes"/>
       <point x="9" y="598"/>
       <point x="9" y="584" type="qcurve" smooth="yes"/>
       <point x="9" y="579"/>

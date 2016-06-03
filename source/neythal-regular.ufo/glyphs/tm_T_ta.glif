@@ -7,6 +7,9 @@
       <point x="220" y="0" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
     </contour>
     <contour>
+      <point x="73" y="39" type="move" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="391" y="1" type="line" smooth="yes"/>
       <point x="404" y="1"/>
       <point x="413" y="22"/>
@@ -67,9 +70,6 @@
       <point x="380" y="2" type="line" smooth="yes"/>
       <point x="385" y="2"/>
       <point x="387" y="1" type="qcurve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="73" y="39" type="move" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

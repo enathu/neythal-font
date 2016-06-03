@@ -10,7 +10,21 @@
       <point x="323" y="0" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
     </contour>
     <contour>
-      <point x="319" y="286" type="qcurve" smooth="yes"/>
+      <point x="86" y="160" type="qcurve" smooth="yes"/>
+      <point x="89" y="182"/>
+      <point x="123" y="220"/>
+      <point x="143" y="220" type="qcurve" smooth="yes"/>
+      <point x="178" y="220"/>
+      <point x="222" y="159"/>
+      <point x="222" y="116" type="qcurve" smooth="yes"/>
+      <point x="222" y="80"/>
+      <point x="175" y="25"/>
+      <point x="144" y="25" type="qcurve" smooth="yes"/>
+      <point x="87" y="25"/>
+      <point x="87" y="138" type="qcurve" smooth="yes"/>
+      <point x="86" y="143"/>
+    </contour>
+    <contour>
       <point x="322" y="332"/>
       <point x="322" y="357" type="qcurve" smooth="yes"/>
       <point x="322" y="480"/>
@@ -85,21 +99,6 @@
       <point x="316" y="141"/>
       <point x="316" y="215" type="qcurve" smooth="yes"/>
       <point x="316" y="240"/>
-    </contour>
-    <contour>
-      <point x="86" y="160" type="qcurve" smooth="yes"/>
-      <point x="89" y="182"/>
-      <point x="123" y="220"/>
-      <point x="143" y="220" type="qcurve" smooth="yes"/>
-      <point x="178" y="220"/>
-      <point x="222" y="159"/>
-      <point x="222" y="116" type="qcurve" smooth="yes"/>
-      <point x="222" y="80"/>
-      <point x="175" y="25"/>
-      <point x="144" y="25" type="qcurve" smooth="yes"/>
-      <point x="87" y="25"/>
-      <point x="87" y="138" type="qcurve" smooth="yes"/>
-      <point x="86" y="143"/>
     </contour>
   </outline>
 </glyph>

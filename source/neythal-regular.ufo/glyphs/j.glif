@@ -4,26 +4,6 @@
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="190" y="661" type="qcurve" smooth="yes"/>
-      <point x="190" y="649"/>
-      <point x="197" y="633" type="qcurve" smooth="yes"/>
-      <point x="199" y="628"/>
-      <point x="203" y="628" type="qcurve" smooth="yes"/>
-      <point x="206" y="626" type="line" smooth="yes"/>
-      <point x="210" y="623"/>
-      <point x="216" y="623" type="qcurve" smooth="yes"/>
-      <point x="220" y="623"/>
-      <point x="223" y="624" type="qcurve" smooth="yes"/>
-      <point x="243" y="629" type="line" smooth="yes"/>
-      <point x="252" y="632"/>
-      <point x="248" y="661"/>
-      <point x="240" y="668" type="qcurve" smooth="yes"/>
-      <point x="223" y="682"/>
-      <point x="216" y="682" type="qcurve" smooth="yes"/>
-      <point x="205" y="682"/>
-      <point x="187" y="669"/>
-    </contour>
-    <contour>
       <point x="141" y="-227" type="qcurve" smooth="yes"/>
       <point x="203" y="-227"/>
       <point x="227" y="-150" type="qcurve" smooth="yes"/>
@@ -62,6 +42,26 @@
       <point x="22" y="-141" type="qcurve" smooth="yes"/>
       <point x="22" y="-171"/>
       <point x="101" y="-227"/>
+    </contour>
+    <contour>
+      <point x="190" y="661" type="qcurve" smooth="yes"/>
+      <point x="190" y="649"/>
+      <point x="197" y="633" type="qcurve" smooth="yes"/>
+      <point x="199" y="628"/>
+      <point x="203" y="628" type="qcurve" smooth="yes"/>
+      <point x="206" y="626" type="line" smooth="yes"/>
+      <point x="210" y="623"/>
+      <point x="216" y="623" type="qcurve" smooth="yes"/>
+      <point x="220" y="623"/>
+      <point x="223" y="624" type="qcurve" smooth="yes"/>
+      <point x="243" y="629" type="line" smooth="yes"/>
+      <point x="252" y="632"/>
+      <point x="248" y="661"/>
+      <point x="240" y="668" type="qcurve" smooth="yes"/>
+      <point x="223" y="682"/>
+      <point x="216" y="682" type="qcurve" smooth="yes"/>
+      <point x="205" y="682"/>
+      <point x="187" y="669"/>
     </contour>
   </outline>
 </glyph>
